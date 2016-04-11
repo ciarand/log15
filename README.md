@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 ![obligatory xkcd](http://imgs.xkcd.com/comics/standards.png)
 
 # log15
